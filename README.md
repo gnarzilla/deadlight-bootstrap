@@ -6,6 +6,9 @@ A lightweight, edge-first web framework built on Cloudflare Workers with authent
 
 <img width="1127" height="621" alt="image" src="https://github.com/user-attachments/assets/1070dc65-60a5-49be-9772-996a194d78bc" />
 
+<img width="1351" height="826" alt="image" src="https://github.com/user-attachments/assets/89feb3ef-ac6b-4e30-9316-72a611dd04b6" />
+
+
 
 ## Features
 
