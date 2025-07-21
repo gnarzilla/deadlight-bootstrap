@@ -4,6 +4,9 @@ A lightweight, edge-first web framework built on Cloudflare Workers with authent
 
 🌐 **[Live Demo](https://deadlight.boo)**
 
+<img width="1127" height="621" alt="image" src="https://github.com/user-attachments/assets/1070dc65-60a5-49be-9772-996a194d78bc" />
+
+
 ## Features
 
 - 🚀 **Zero cold starts** - Runs on Cloudflare Workers edge network
