@@ -65,6 +65,7 @@ wrangler deploy
 
 ## Project Structure
 
+~~~
 deadline-bootstrap/
 ├── blog.js          # Main router and request handler
 ├── admin.js         # Admin routes (create/edit/delete)
@@ -76,7 +77,7 @@ deadline-bootstrap/
 ├── utils.js         # Utility functions
 ├── schema.sql       # Database schema
 └── wrangler.toml    # Cloudflare configuration
-
+~~~
 
 ## Common Issues
 
