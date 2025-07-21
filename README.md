@@ -25,7 +25,7 @@ A lightweight, edge-first web framework built on Cloudflare Workers with authent
 
 1. Clone and install:
 
-git clone https://github.com/yourusername/edge-starter
+git clone https://github.com/gnarzilla/deadlight-bootstrap.git
 cd edge-starter
 npm install
 
