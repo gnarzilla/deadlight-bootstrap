@@ -25,9 +25,11 @@ A lightweight, edge-first web framework built on Cloudflare Workers with authent
 
 1. Clone and install:
 
+~~~
 git clone https://github.com/gnarzilla/deadlight-bootstrap.git
-cd edge-starter
+cd deadlight-bootstrap
 npm install
+~~~
 
 2. Create your D1 database:
 
