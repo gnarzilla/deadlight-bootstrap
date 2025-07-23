@@ -64,7 +64,7 @@ wrangler deploy
 
 7. Create your admin user:
 
-- Visit https://yourdomain.com/setup-user
+- Visit https://yourdomain.com/admin/add-user
 - Note the credentials
 - Remove the setup route from blog.js for security
 
