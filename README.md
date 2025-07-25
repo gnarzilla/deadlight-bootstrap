@@ -18,6 +18,8 @@ A lightweight, edge-first web framework built on Cloudflare Workers with authent
 - ⚡ **Fast** - Under 150KB total, loads instantly worldwide
 - 🛡️ **Secure** - XSS protection, CSRF safe, proper password hashing
 
+<img width="2226" height="1222" alt="image" src="https://github.com/user-attachments/assets/bd253f60-4818-4094-aeda-0320a43f0943" />
+
 ## Quick Start
 
 ### Prerequisites
