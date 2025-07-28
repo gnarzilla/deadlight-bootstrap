@@ -2,7 +2,7 @@
 
 A lightweight, edge-first web framework built on Cloudflare Workers with authentication, D1 database, and a clean dark UI. Deploy a blog or small site globally in under 5 minutes.
 
-_support is greatly appreciated!_- [Buy me a coffee](coff.ee/gnarzillah)
+[Support is greatly appreciated!  Buy me a coffee](coff.ee/gnarzillah)
 
 🌐 **[Live Demo](https://deadlight.boo)**
 
