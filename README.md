@@ -4,7 +4,7 @@ A lightweight, edge-first web framework built on Cloudflare Workers with authent
 
 🌐 **[Live Demo](https://v1.deadlight.boo)**
 
-Matured branch of this project has been moved to [blog.deadlight][https://github.com/gnarzilla/blog.deadlight) | [V3 Live Demo](https://deadlight.boo)
+Matured branch of this project has been moved to [deadlight](https://github.com/gnarzilla/blog.deadlight) | [V3 Live Demo](https://deadlight.boo)
 
 <img width="2216" height="1222" alt="image" src="https://github.com/user-attachments/assets/29f4f329-e748-43c4-94ca-193bf2208846" />
 
@@ -163,6 +163,7 @@ MIT - Use this however you want!
 
 Built by @gnarzilla at deadlight.boo 
 [Support is greatly appreciated!  Buy me a coffee](coff.ee/gnarzillah)
+
 
 
 
