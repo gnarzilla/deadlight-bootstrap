@@ -1,4 +1,4 @@
-# Deadlight Edge Bootstrap - Cloudflare Workers Blog/Site Framework
+# Deadlight Edge Bootstrap - Cloudflare Workers Blog/Site Framework - Version 1.0
 
 A lightweight, edge-first web framework built on Cloudflare Workers with authentication, D1 database, and a clean dark UI. Deploy a blog or small site globally in under 5 minutes.
 
@@ -166,6 +166,7 @@ MIT - Use this however you want!
 
 Built by @gnarzilla at deadlight.boo 
 [Support is greatly appreciated!  Buy me a coffee](coff.ee/gnarzillah)
+
 
 
 
