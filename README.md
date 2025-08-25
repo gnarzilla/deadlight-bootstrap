@@ -5,8 +5,8 @@ A lightweight, edge-first web framework built on Cloudflare Workers with authent
 🌐 **[Live Demo](https://v1.deadlight.boo)**
 
 ## PROJECT UPDATE: 
-Matured branch of this project has been moved to [deadlight](https://github.com/gnarzilla/blog.deadlight) | [V3 Live Demo](https://deadlight.boo)
-All updates to this project will build further upon version 3, deadlight-bootstrap (this repo) has no plans for further updates without outside contributors. 
+Matured branch of this project has been moved to [deadlight](https://github.com/gnarzilla/deadlight) | [V4 Live Demo](https://deadlight.boo)
+All updates to this project will build further upon version 4, deadlight-bootstrap (this repo) has no plans for further updates without outside contributors. 
 The following screenshots and the README refer to the current archived repo/v1.
 
 <img width="2216" height="1222" alt="image" src="https://github.com/user-attachments/assets/29f4f329-e748-43c4-94ca-193bf2208846" />
