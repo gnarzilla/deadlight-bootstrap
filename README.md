@@ -17,13 +17,13 @@ The following screenshots and the README refer to the current archived repo/v1.
 
 ## Features
 
-- 🚀 **Zero cold starts** - Runs on Cloudflare Workers edge network
-- 🔐 **Authentication built-in** - JWT-based auth with secure sessions
-- 📝 **Markdown support** - Write posts in Markdown, rendered safely
-- 🌓 **Dark/Light themes** - Smooth theme switching with localStorage
-- 💾 **D1 Database** - SQLite at the edge for your content
-- ⚡ **Fast** - Under 150KB total, loads instantly worldwide
-- 🛡️ **Secure** - XSS protection, CSRF safe, proper password hashing
+- **Near Zero cold starts** - Runs on Cloudflare Workers edge network
+- **Authentication built-in** - JWT-based auth with secure sessions
+- **Markdown support** - Write posts in Markdown, rendered safely
+- **Dark/Light themes** - Smooth theme switching with localStorage
+- **D1 Database** - SQLite at the edge for your content
+- **Fast** - Under 150KB total, loads instantly worldwide
+- **Secure** - XSS protection, CSRF safe, proper password hashing
 
 <img width="2226" height="1222" alt="image" src="https://github.com/user-attachments/assets/bd253f60-4818-4094-aeda-0320a43f0943" />
 
@@ -122,21 +122,21 @@ Edit templates.js for layout changes
 ## Roadmap / Future Features
 
 ### Coming Soon
-- 📄 Individual post pages with permalinks
+- Individual post pages with permalinks
     - Post excerpts on homepage
-- 📰 RSS feed generation
-- 🏷️ Tags and categories
-- 🔍 Search functionality
-- 📅 Draft/scheduled posts
-- 💬 Comments (considering privacy-first approach)
+- RSS feed generation
+- Tags and categories
+- Search functionality
+- Draft/scheduled posts
+- Comments (considering privacy-first approach)
 
 ### Under Consideration  
-- 🖼️ Image uploads via R2 (with content safety measures)
-- 📊 Analytics (privacy-respecting, no Google)
-- 🔔 Email notifications for new posts
-- 🌐 i18n/multi-language support
-- 🎨 Theme marketplace
-- 📱 PWA support
+- Image uploads via R2 (with content safety measures)
+- Analytics (privacy-respecting, no Google)
+- Email notifications for new posts
+- i18n/multi-language support
+- Theme marketplace
+- PWA support
 
 ### Plugin Architecture
 - Extensible with Workers modules
