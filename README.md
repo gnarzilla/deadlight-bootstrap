@@ -164,8 +164,7 @@ MIT - Use this however you want!
 - Inspired by the need for simple, fast, edge-native websites
 - Special thanks to LLMs and vibe coding; Use the tools that you have at hand.
 
-Built by @gnarzilla at deadlight.boo 
-[Support is greatly appreciated!  Buy me a coffee](coff.ee/gnarzillah)
+[Support is greatly appreciated! - ko-fi/gnarzilla](https://ko-fi.com/gnarzilla)
 
 
 
