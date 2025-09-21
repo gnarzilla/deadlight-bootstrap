@@ -17,7 +17,8 @@ A lightweight, edge-first web framework built on Cloudflare Workers with authent
 8.  [Support](#support) 
 
 
-## PROJECT UPDATE: 
+## Project Update
+
 Evolved branch of this project has been moved to [blog.deadlight](https://github.com/gnarzilla/blog.deadlight) | [V4 Live Demo](https://blog.deadlight.boo)
 All updates to this project will build further upon version 4, deadlight-bootstrap (this repo) has no plans for further updates without outside contributors. 
 The following screenshots and the README refer to the current archived repo/v1.
