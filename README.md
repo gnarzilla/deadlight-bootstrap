@@ -144,6 +144,10 @@ Edit templates.js for layout changes
 
 ## Roadmap
 
+Evolved project moved to dedicated repository at [blog.deadlight](https://github.com/gnarzilla)
+
+Full integrated platform with blog.deadlight, proxy.deadlight and lib.deadlight to live at [edge.deadlight](https://github.com/gnarzilla/edge.deadlight)
+
 ### Coming Soon
 - Individual post pages with permalinks
     - Post excerpts on homepage
