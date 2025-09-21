@@ -8,7 +8,7 @@ A lightweight, edge-first web framework built on Cloudflare Workers with authent
 1.  [Project Update](#project-update)
 1.  [Key Features](#key-features)
 3.  [Quick Start](#quick-start)
-4.  [Project Structure](#project-structure
+4.  [Project Structure](#project-structure)
 4.  [Common Issues](#common-issues)
 5.  [Customization](#customization)
 6.  [Contributing](#contributing)
