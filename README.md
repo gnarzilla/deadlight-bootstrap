@@ -4,6 +4,19 @@ A lightweight, edge-first web framework built on Cloudflare Workers with authent
 
 🌐 **[Live Demo](https://v1.deadlight.boo)**
 
+### Table of Contents
+1.  [Project Update](#project-update)
+1.  [Key Features](#key-features)
+3.  [Quick Start](#quick-start)
+4.  [Project Structure](#project-structure
+4.  [Common Issues](#common-issues)
+5.  [Customization](#customization)
+6.  [Contributing](#contributing)
+6.  [Roadmap](#roadmap)
+7.  [License](#license)
+8.  [Support](#support) 
+
+
 ## PROJECT UPDATE: 
 Evolved branch of this project has been moved to [blog.deadlight](https://github.com/gnarzilla/blog.deadlight) | [V4 Live Demo](https://blog.deadlight.boo)
 All updates to this project will build further upon version 4, deadlight-bootstrap (this repo) has no plans for further updates without outside contributors. 
@@ -15,7 +28,7 @@ The following screenshots and the README refer to the current archived repo/v1.
 
 <img width="2249" height="1218" alt="image" src="https://github.com/user-attachments/assets/0595d9cd-9750-46e2-95c3-e9198f7fb84d" />
 
-## Features
+## Key Features
 
 - **Near Zero cold starts** - Runs on Cloudflare Workers edge network
 - **Authentication built-in** - JWT-based auth with secure sessions
@@ -153,7 +166,7 @@ Edit templates.js for layout changes
 - Custom themes beyond dark/light
 - Webhook integrations
 
-### Contributing
+## Contributing
 
 This is a personal project shared for others to use and learn from. Feel free to:
 
@@ -168,7 +181,7 @@ Note: I'm moving on to other projects, so response time may vary.
 
 MIT - Use this however you want!
 
-## Acknowledgments
+## Support
 
 - Built to learn Cloudflare Workers
 - Inspired by the need for simple, fast, edge-native websites
