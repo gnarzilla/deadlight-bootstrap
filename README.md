@@ -145,7 +145,8 @@ Edit templates.js for layout changes
 
 ## Roadmap
 
-Evolved project moved to dedicated repository at [blog.deadlight](https://github.com/gnarzilla/blog.deadlight). This repo will remain active as a minimalist, blog only, implementation.
+Evolved project moved to dedicated repository at [blog.deadlight](https://github.com/gnarzilla/blog.deadlight). This repo will remain active as a minimalist, blog only, implementation. Federation not supported in Bootstrap version
+
 
 Full integrated platform with [blog.deadlight](https://github.com/gnarzilla/blog.deadlight), [proxy.deadlight](https://github.com/gnarzilla/proxy.deadlight) and [lib.deadlight](https://github.com/gnarzilla/lib.deadlight) to live at [edge.deadlight](https://github.com/gnarzilla/edge.deadlight)
 
