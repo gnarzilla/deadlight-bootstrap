@@ -142,7 +142,7 @@ Add new routes in blog.js following the existing pattern.
 Edit templates.js for layout changes
 
 
-## Roadmap / Future Features
+## Roadmap
 
 ### Coming Soon
 - Individual post pages with permalinks
