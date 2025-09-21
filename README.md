@@ -25,7 +25,7 @@ The following screenshots and the README refer to the current archived repo/v1.
 - **Fast** - Under 150KB total, loads instantly worldwide
 - **Secure** - XSS protection, CSRF safe, proper password hashing
 
-<img width="2226" height="1222" alt="image" src="https://github.com/user-attachments/assets/bd253f60-4818-4094-aeda-0320a43f0943" />
+<img width="2226" height="1222" alt="deadlight boostrap blog" src="https://github.com/user-attachments/assets/bd253f60-4818-4094-aeda-0320a43f0943" />
 
 ## Quick Start
 
@@ -46,30 +46,40 @@ npm install
 
 2. Create your D1 database:
 
+```bash
 wrangler d1 create blog_content
+```
 
 3. Create the database ID to wrangler.toml:
 
+```toml
 [[d1_databases]]
 
 binding = "DB"
 database_name = "blog_content"
-database_id = "your-database-id-here" 
+database_id = "your-database-id-here"
+```
 
 4. Initialize the database:
 
+```bash
 wrangler d1 execute blog_content --file=schema.sql
+```
 
 5. Configure your domain in wrangler.toml:
 
+```toml
 [[routes]]
 
 pattern = "yourdomain.com/*"
 zone_id = "your-zone-id"
+```
 
 6. Deploy:
 
+```bash
 wrangler deploy
+```
 
 7. Create your admin user:
 
