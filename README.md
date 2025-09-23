@@ -61,7 +61,7 @@ npm install
 2. Create your D1 database:
 
 ```bash
-wrangler d1 create blog_content
+wrangler d1 create your-db-name
 ```
 
 3. Create the database ID to wrangler.toml:
@@ -70,14 +70,14 @@ wrangler d1 create blog_content
 [[d1_databases]]
 
 binding = "DB"
-database_name = "blog_content"
+database_name = "your-db-name"
 database_id = "your-database-id-here"
 ```
 
 4. Initialize the database:
 
 ```bash
-wrangler d1 execute blog_content --file=schema.sql
+wrangler d1 execute your-db-name --file=schema.sql
 ```
 
 5. Configure your domain in wrangler.toml:
@@ -85,7 +85,7 @@ wrangler d1 execute blog_content --file=schema.sql
 ```toml
 [[routes]]
 
-pattern = "yourdomain.com/*"
+pattern = "your-domain.tld/*"
 zone_id = "your-zone-id"
 ```
 
@@ -192,6 +192,7 @@ MIT - Use this however you want!
 - Inspired by the need for simple, fast, edge-native websites
 
 [Support is greatly appreciated! - ko-fi/gnarzilla](https://ko-fi.com/gnarzilla)
+
 
 
 
