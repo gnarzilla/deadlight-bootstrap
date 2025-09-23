@@ -145,8 +145,7 @@ Edit templates.js for layout changes
 
 ## Roadmap
 
-Evolved project moved to dedicated repository at [blog.deadlight](https://github.com/gnarzilla/blog.deadlight). This repo will remain active as a minimalist, blog only, implementation. Federation not supported in Bootstrap version
-
+Evolved project moved to dedicated repository at [blog.deadlight](https://github.com/gnarzilla/blog.deadlight). This repo will remain active as a minimalist, blog only, implementation. Federation, email, local keyring integration, other proxying features not supported in Bootstrap version, however these limits allow the blog to be entirely edge deployed with no local dependencies. 
 
 Full integrated platform with [blog.deadlight](https://github.com/gnarzilla/blog.deadlight), [proxy.deadlight](https://github.com/gnarzilla/proxy.deadlight) and [lib.deadlight](https://github.com/gnarzilla/lib.deadlight) to live at [edge.deadlight](https://github.com/gnarzilla/edge.deadlight)
 
@@ -193,6 +192,7 @@ MIT - Use this however you want!
 - Inspired by the need for simple, fast, edge-native websites
 
 [Support is greatly appreciated! - ko-fi/gnarzilla](https://ko-fi.com/gnarzilla)
+
 
 
 
