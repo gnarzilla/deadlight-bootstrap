@@ -191,9 +191,9 @@ MIT - Use this however you want!
 
 - Built to learn Cloudflare Workers
 - Inspired by the need for simple, fast, edge-native websites
-- Special thanks to LLMs and vibe coding; Use the tools that you have at hand.
 
 [Support is greatly appreciated! - ko-fi/gnarzilla](https://ko-fi.com/gnarzilla)
+
 
 
 
